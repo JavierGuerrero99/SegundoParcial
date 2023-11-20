@@ -67,7 +67,7 @@
 <body>
 	 <div class="login-container">
     <h2>BBVA</h2>
-    <form id="login-form" action="valid" method="GET">
+    <form id="login-form" action="UsuarioServlet" method="get">
       <div class="input-group">
         <label for="username">Username</label>
         <input type="text" id="username" name="username" required>
