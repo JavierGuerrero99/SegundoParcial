@@ -16,7 +16,7 @@ public class Conexion {
 	private static final String dbName = "sistema";
 	private static final String driver = "com.mysql.jdbc.Driver";
 	private static final String userName = "root";
-	private static final String password = "";
+	private static final String password = "admin123_";
 
 
 public Conexion() {
